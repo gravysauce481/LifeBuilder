@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="processing">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../processing/core.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../processing/jogamp-fat.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../processing/jts-1.14-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
